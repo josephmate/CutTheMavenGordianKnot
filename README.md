@@ -27,7 +27,7 @@ However, the weakness I noticed with this tool is that it only says which depend
 - [x] get all class files from jar from each transitive dependency and build a dictionary of full class path to dependency
 - [x] iterate over files
 - [x] extract imports
-- [ ] Import Weight: calculate the number of imports from each dependency and order by count ascending
+- [x] Import Weight: calculate the number of imports from each dependency and order by count ascending
 - [ ] Transitive Import Weight: calculate the number of imports from each dependency and their transitive imports vs total classes
 - [ ] come up with a format that is pleasant to read in build logs or terminal 
 - [ ] Bytecode Weight: calculate weight of bytecode used by project over the amount of byte code brought in by the dependency
