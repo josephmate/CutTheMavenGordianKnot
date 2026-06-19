@@ -8,9 +8,9 @@
   <packaging>maven-plugin</packaging>
   <version>1.0.0-SNAPSHOT</version>
 
-  <name>Apache Maven Dependency Analyzer</name>
+  <name>Cut the Maven Gordian Knot</name>
   <description>
-    Analyzes the dependencies of a project for undeclared or unused artifacts.
+    Analyzes dependencies for weak ones which you can remove.
   </description>
 
   <prerequisites>
